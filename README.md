@@ -1,3 +1,9 @@
+# Hi everybod! Welcome to my profile
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTA0bzg1d3QzaXZpN3Bnejlic3F0cHBuaTZ1bmR4bTdmaW1oM3lkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on a personal spendings application<br>👯 I’m looking to collaborate on projects were I can learn interesting things.<br>🌱 I’m currently learning React and TypeScript<br>💬 Ask me about anything<br>⚡ Fun fact I'm also learning about 3d modeling
 
@@ -17,4 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MaxAndre22&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MaxAndre22/count.svg?"  />
+</div>
